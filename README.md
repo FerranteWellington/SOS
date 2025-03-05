@@ -1,0 +1,2 @@
+# SOS
+Stellar Ocultation Simulator
